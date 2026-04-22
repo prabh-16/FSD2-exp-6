@@ -1,6 +1,6 @@
 # LEARNING OUTCOMES: EXPERIMENT 6 (Handle forms and validations in frontend)
 
-## Name - Santosh Kumar, UID - 23BIS70058
+## Name - Prabhkirat Singh, UID - 23BIS70061
 
 ### 1. Build a professional looking form using MUI components instead of plain HTML, making the UI clean and industry-like.
 
